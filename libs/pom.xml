@@ -16,6 +16,5 @@
     <modules>
         <module>lib-a</module>
         <module>lib-b</module>
-        <module>lib-gone</module>
     </modules>
 </project>
